@@ -106,7 +106,7 @@ AI（人工智能）
 |----------|---------------------|
 | 第1章 · 简介 / 图1-2 等开篇与框架 | `01_foundations/01_llm_intro.md`（本文件） |
 | 嵌入、Transformer 等底层机制 | `01_foundations/`（如 `02_tokens_embeddings.md`、`03_transformer_internals.md`） |
-| 分类、生成、RAG、Agent、多模态等实战 | `02_applications/` |
+| 第 4–9 章 · 分类、聚类、Prompt、Agent、RAG、多模态等实战 | `02_applications/`（`04_`…`09_` 子目录） |
 | 针对表示 / 分类 / 生成等任务的微调 | `03_finetuning/` |
 
 图1-2 中的**三大任务**与仓库分段大致对应：**基础理论**弄清嵌入与模型结构，**应用实战**做分类、生成、RAG 等，**微调**按任务类型优化模型。

@@ -1,8 +1,8 @@
 # llm-agent-study
 
-个人 LLM 学习笔记与代码实验仓库。目录按「基础 → 应用 → 微调」分层，**文件夹名均为英文**，便于管理与 Git。
+个人 LLM 学习笔记与代码实验仓库。全书按 **12 章** 组织学习路线；目录按「基础 → 应用 → 微调」分层，**文件夹名均为英文**，便于管理与 Git。
 
-**详细章节与学习顺序见：** [README_STUDY_PATH.md](README_STUDY_PATH.md)
+**12 章与路径对照：** [README_STUDY_PATH.md](README_STUDY_PATH.md)
 
 | 目录 | 说明 |
 |------|------|
