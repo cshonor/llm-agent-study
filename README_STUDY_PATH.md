@@ -13,21 +13,21 @@
 - 语言 AI 发展脉络、词向量与向量表征、Transformer 与注意力
 - 编码器 / 解码器、LLM 定义与范式、应用与安全交互
 
-**笔记文件：** `01_foundations/01_llm_intro.md`
+**笔记文件：** `01_foundations/01_llm_intro/README.md`
 
 ### 第 2 章 词元与嵌入
 
 - 分词、词嵌入与文本嵌入、Word2Vec
 - 与推荐系统等「向量化表示」的衔接
 
-**笔记文件：** `01_foundations/02_tokens_embeddings.md`  
+**笔记文件：** `01_foundations/02_tokens_embeddings/README.md`  
 **示例代码：** `04_code_lab/bow_demo.py`（词袋等朴素向量化）
 
 ### 第 3 章 LLM 的内部机制
 
 - Transformer 整体结构、注意力机制、位置编码（如 RoPE）、架构演进
 
-**笔记文件：** `01_foundations/03_transformer_internals.md`
+**笔记文件：** `01_foundations/03_transformer_internals/README.md`
 
 ---
 
@@ -104,9 +104,9 @@
 
 | 章 | 主题 | 仓库路径 |
 |---:|------|----------|
-| 1 | 大语言模型简介 | `01_foundations/01_llm_intro.md` |
-| 2 | 词元与嵌入 | `01_foundations/02_tokens_embeddings.md` |
-| 3 | LLM 内部机制 / Transformer | `01_foundations/03_transformer_internals.md` |
+| 1 | 大语言模型简介 | `01_foundations/01_llm_intro/README.md` |
+| 2 | 词元与嵌入 | `01_foundations/02_tokens_embeddings/README.md` |
+| 3 | LLM 内部机制 / Transformer | `01_foundations/03_transformer_internals/README.md` |
 | 4 | 文本分类 | `02_applications/04_text_classification/` |
 | 5 | 聚类与主题建模 | `02_applications/05_topic_clustering/` |
 | 6 | 提示工程 | `02_applications/06_prompt_engineering/` |
